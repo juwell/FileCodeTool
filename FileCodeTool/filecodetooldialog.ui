@@ -81,7 +81,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>F:\work\home\zhanren\old\soft\server</string>
+    <string/>
    </property>
    <property name="placeholderText">
     <string>Search Dir</string>
@@ -194,7 +194,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>F:\work\home\zhanren\old\soft\新建文件夹</string>
+    <string/>
    </property>
    <property name="placeholderText">
     <string>Cover Src File By Empty</string>
